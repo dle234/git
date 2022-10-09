@@ -1,0 +1,53 @@
+|CTAG_1665286091_314635218_6440_0
+git config --list
+code .
+git config --global core.editor "code --wait"
+git config --global user.name "Kayeon"
+git config --gloabal user.email "kky1373@naver.com"
+git config --global user.email "kky1373@naver.com"
+git config user.email
+git config --global core.autocrlf true
+|d helloworld
+C:\Users\user
+C:\Users\user\helloworld 
+|d..
+cd..
+cd helloworld
+mkdir git
+|s -al
+|it init
+|s -al
+open .git
+rm -rf .git
+git init
+|s
+|it status
+echo hello world! >a.txt
+echo hello world! >b.txt
+echo hello world! >c.txt
+|it status
+|it add a.txt
+|it status
+git add*.txt
+|it status
+git add b.txt
+git add c.txt
+|it status
+echo ellie >>a.txt
+|it status
+|it add a.txt
+|it status
+git rm --cached *
+|it status
+git add *
+ls
+|it status
+git add*
+git add .
+git add a.txt
+git status
+echo *.txt> .gitignore
+ls -al
+code.
+.code
+code 
